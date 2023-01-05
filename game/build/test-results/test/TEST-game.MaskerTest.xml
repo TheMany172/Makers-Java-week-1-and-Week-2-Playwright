@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="game.MaskerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-15T15:09:12" hostname="MASTUDENT-Adam-Little-D5W76VG43G.local" time="0.024">
+  <properties/>
+  <testcase name="MockedMaskerTest()" classname="game.MaskerTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

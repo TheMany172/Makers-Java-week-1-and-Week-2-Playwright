@@ -1,0 +1,18 @@
+package not connected
+connect
+
+beginning of if statement is expecting string - but gets number
+
+same for other bits of the if else etc statements
+
+^ none are feeding into the 'isDivisibleBy' thing properly
+
+issues with Main
+class not instantiated properly
+
+
+double == used at end of isdiviible by
+
+_isdivisble by in if else statements
+
+boolean for the fizzbuzz class

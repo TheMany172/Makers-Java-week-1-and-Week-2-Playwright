@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-12T15:18:47" hostname="MASTUDENT-Adam-Little-D5W76VG43G.local" time="0.067">
+  <properties/>
+  <testcase name="testtoonehundred()" classname="FizzBuzzTest" time="0.059"/>
+  <testcase name="testGenerateListsNumbersUpToOne()" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="testGenerateListsNumbersUpToTwo()" classname="FizzBuzzTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
